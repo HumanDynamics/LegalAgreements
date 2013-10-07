@@ -1,0 +1,903 @@
+//Note: The following agreement represents a vision of the author describing how roles and relationships could be structured for provision and use of personal data stores. In collaboration with the MIT Human Dynamics Lab, this draft agreement is being refactored and reframed as a data-driven legal instrument using the business, legal and technical method and GitHub as a mechanism.  A version of the draft agreement compatible of System Rules is being explored as a possible basis for further collaboration.  
+
+Draft Model User Centric Legal Agreement for Trust Framework and Data Store
+©2013 University of Washington School of Law | William H. Gates Hall | Box 353020 | Seattle, WA 98195-3020 
+
+11/8/12
+
+Draft
+
+Scott L. David
+University of Washington School of Law
+
+STANDARD DATA STORE
+DATA RIGHTS MANAGEMENT
+SERVICES AGREEMENT
+BETWEEN
+DATA RIGHTS OWNER
+AND
+DATA STORE
+
+This “Standard Data Store Data Management Services Agreement (“Agreement”) is effective on the date of Online Registration of the party seeking data store services, and is a contract between that party (the “Data Rights Owner”), and [NOTE: Insert name of data store entity here] (“Data Store”), under which Data Store shall provide Data Rights Owner and Data Rights Owner’s Affiliates (if that option is selected by Data Rights Owner) with certain data rights management services and related identity information-technology services on the terms and conditions set forth below.
+
+For and in consideration of the mutual promises and covenants contained herein, the receipt, sufficiency, and adequacy of which are hereby acknowledged, the Parties, intending to be legally bound, hereby contract and agree as follows :
+
+1. Background and Purpose
+
+To the extent that Data Rights Owner and Data Store are at any time during the term of this Agreement parties to a separate legal agreement through which Data Store collects, stores, handles or otherwise has possession or access to data from, relating to or relatable to Data Rights Owner in accordance with that agreement and applicable local law or pursuant to which data about Data Rights Owner is shared with third-parties (whether such sharing is done on behalf of Data Rights Owner or Data Store), as the case may be (each an “Existing Agreement”), the Parties hereto wish to continue to have their relationship defined by such Existing Agreements, and to supplement such Existing Agreements with the terms of this Agreement. The Parties mutually acknowledge and agree that the terms of this Agreement are supplemental to those of the Existing Agreements, and to the extent of any conflict between the terms of such agreements, the terms of this Data Store Agreement replace and supersede the terms and conditions of the Existing Agreements.
+
+2. DEFINITIONS
+
+The words and phrases set forth in Schedule 2 hereof, when used in this Agreement, shall have the indicated meanings. (Terms capitalized within a particular definition have been defined elsewhere within this Agreement.)
+
+3. SERVICES
+
+From and after the Effective Date, Data Store shall provide the Services to Data Rights Owner. .
+
+The Services include :
+
+Data Acquisition and Collection Services (see Section 3.2 and Schedule 3.2),
+
+Vault Data Warehousing and Data Integrity Services (see Section 3.3 and Schedule 3.3),
+
+Vault Data Sharing Services (including various identity management and attribute-related services, credentialing services, etc. (see Section 3.4 and Schedule 3.4),
+
+Circulating Data Leverage Services (see Section 3.5 and Schedule 3.5),
+
+Data Portability Services (see Section 3.6 and Schedule 3.6),
+
+Vault Data Unauthorized Access Recovery Services (see Section 3.7 and Schedule 3.7).
+
+3.1. Provision of Services
+
+Commencing on the Effective Date, and at all times thereafter during the Term, except as otherwise expressly stated herein, Data Store shall perform all of the Services described in this Section 3 In accordance with the requirements and in conformity with the standards set forth in the several service Schedules of this section 3.
+
+3.2. Data Acquisition and Collection Services
+
+During the Term, Data Store shall provide Data Acquisition and Collection Services as described in Schedule 3.2 hereto.
+
+3.3. Vault Data Warehousing and Data Integrity Services
+
+During the Term, Data Store shall provide Vault Data Warehousing and Data Integrity Services as described in Schedule 3.3 hereto.
+
+3.4. Vault Data Sharing Services
+During the Term, Data Store shall provide Vault Data Sharing Services pursuant to the Vault Data Sharing Services Agency Agreement set forth in Schedule 3.4 hereto. Other than a transfer pursuant to a Data Portability Event described in section __, in no event will Data Store transfer or provide access to any Vault Data to any third party that is not a Party to this Agreement[, even upon the request of Data Rights Owner.
+
+3.5. Circulating Data Leverage Services
+
+During the Term, Data Store shall provide Circulating Data Leverage Services as described in Schedule 3.5 hereto. In no event will Data Store transfer any Circulating Data to any party that is not a Party to this Agreement, even upon the request of Data Rights Owner. To the extent that Data Store satisfies the “safe harbor” elements described in Schedule 3.5 in its processes and protocols for deriving Circulating Data from Vault Data, Data Store will be held harmless from and against any claims of Data Rights Owners described in Schedule 3.5
+
+3.6. Data Portability Services
+
+Following the Effective Date, Data Store shall provide Data Portability Services as set forth in Schedule 3.6 hereto. Such Services shall be available to Data Rights Owner at all times during the term, and upon termination of the Agreement with or without cause. Where such Services are made available in the context of a termination of the Agreement due to Data Store default, such Services are in addition to, and not in substitution for the payments received and other remedies available under section __ hereof
+
+3.7. Vault Data Unauthorized Access Recovery Services
+
+Following the Effective Date, Data Store shall provide Vault Data Unauthorized Access Recovery Services as set forth in Schedule 3.7 hereto. Where these Services are provided in the context of an Unauthorized Access to Vault Data or Vault Meta Data held by Data Store, such services are in addition to, and not in substitution for the payments received and other remedies available] under section __ hereof Such Services will include, but not be limited to, Data Store’s obligation to maintain full and complete records and details of all actions taken with respect to all Vault Data and all Circulating Data, all permissioning and other information necessary to enable the full and complete accounting of all Vault Data AND Circulating Data use. Such records will be maintained in a manner that has the effect of “attaching” the metadata to all data used or transferred, not with an actual physical or file-based joining of the data and meta data, but rather through the maintenance of a data and information system that permits the persistent, non-destructible maintenance of the metadata information in any manner that permits the reconstruction of such metadata by the Data Stores, the Data Rights Owner and any other party authorized to have access to such data under contract or public law.
+
+3.8. Future Services
+
+Following the Effective Date, Data Store may offer to Data Rights Holder additional services. Each such additional service shall be provided at such time and in the manner as agreed upon by the parties pursuant to a revision to this Data Store Agreement by the Data Store and an acceptance of such terms by the Data Rights Owner from time to time.
+
+4. ESLs
+
+Expected Service Levels (“ESLs”) may be established for one or more of the following categories of services:
+
+Data Acquisition and Collection Services,
+Vault Data Warehousing and Data Integrity Services,
+Vault Data Sharing Services
+Data Portability Services
+Vault Data Unauthorized Access Recovery Services
+Other Services made available by Data Store to Data Rights owner from time to time.
+
+ESLs are not anticipated to be established for Circulating Data Leverage Services, since the Data Store activities associated with such services are performed by Data Store on its own behalf, not on behalf of a Data Rights Owner (notwithstanding the Data Store’s obligation to account to Data Rights Owner for revenues generated through its Circulating Data Leverage Services business).
+
+ESLs are established for the express purpose of creating a threshold of performance for some aspect of the relevant service for which the ESL is provided. In the event that Data Store fails to provide service equivalent to that called for in a particular ESL, Data Rights Holder can pursue remedies through the Fee Reduction mechanism provided for in section __ of this Agreement. ESLs are not intended to provide comprehensive “specifications” for performance by Data Stores, but are only intended to identify those service elements for which performance is sufficiently empirically and objectively measurable, and for which the damages due to harm is the most directly calculable, that performance failures can lend themselves to automated, scalable resolution systems.
+
+4.1. Specification of ESLs
+
+All ESLs shall be performed as specified in the ESL section of the relevant service schedule for that service identified in section 3 as amended from time to time.
+
+4.2. ESL Measurement and Reporting; Accounting Data Store shall make available to Data Rights Owners reports and statistics regarding its performance of the various Services for all of its Data Rights Owners against the ESLs during each calendar month, by the fifteenth (15th) business day of the following month.
+
+Measurements of system availability shall exclude scheduled downtime, delays in the provision of a Service schedule requested by or caused by Data Rights Owner, and unscheduled downtime to the extent attributable to Force Majeure Events, or the acts or omissions of Data Rights Owner or its employees, agents, third-party contractors, and suppliers.
+
+4.3. Adoption of “Best Practices” in ESLs
+
+ESLs shall be modified from time to time pursuant to the amendment processes applicable to the Agreement, to keep pace with current advances in technology and “best practices” in the relevant industry associated with the portion of the Service under review, and other relevant changes in the environments or circumstances in which the Services are being used and relied upon. Data Store shall use commercially reasonable efforts to improve its performance of the Services, both in relation to the ESLs and otherwise throughout the Term, whether through the adoption and use of more efficient technologies, more effective network architectures, better integrated technical and legal interoperability advances, and the like.
+
+4.4. Limited Suspension of ESLs to Accommodate Data Rights Owner
+
+If and to the extent that Data Store fails to meet a specific ESL as a result of material actions, errors, or omissions of Data Rights Owner, such ESL will be deemed to be suspended for an amount of time as is reasonably necessary for Data Store to again achieve conformity to such ESL. Data Store may take such reasonable precautions as it deems necessary to prevent the recurrence of any such event.
+
+5. DATA STORE RESOURCES
+
+5.1. General
+
+With the exception of those hardware, software, telecommunications, educational, network, and other product and service resources for which the Data Rights Owner is explicitly responsible as described in Schedule 5.1, Data Store shall be fully and entirely responsible for obtaining and gaining access to all software (including licenses to necessary third party software), hardware, documentation, services, and other resources that it requires to perform the Services, including but not limited to the performance in conformity with the relevant ESLs.
+
+5.2. Unpermitted Uses of Data Store Services
+
+[To come]
+
+5.3. Customized Use of Data Store Services
+
+Data Rights Owner may request, and Data Store may separately agree to provide, customized ESL Services (“CESLS”) to accommodate and address particular Data Rights Owner needs, all on the terms and conditions separately agreed to by the parties from time to time.
+
+Among the CESLs that may be requested by the Data Rights Holder are increased and additional requirements relating to the transmission and handling of Vault Data and Shared Vault Data by Data Store. A Data Store shall be required to use in connection with its provision of services under a CESL, and cause its suppliers to use, the third party services, networks, applications and other functionality offered by such other parties as it agrees to provide to Data Rights Owner pursuant to such CESL. Each Data Rights Owner agrees and acknowledges that CESLs entered into between the Data Store and other Data Rights Owners that use Data Store Services are only binding on Data Store with respect to the Data Rights Owner(s) that are covered under each such CESL, and that Data Store’s duties and obligations under any one or more CESLs do not establish an “industry practice” or “standard of care” that affects the rights of any such other Data Rights Owners, or the Services provided by Data Store to such Data Rights Owners.
+
+Data Rights Owner also acknowledges and agrees that Data Store may, in its sole and exclusive discretion, choose to offer any part or all of the services under any CESL to one or more other Data Rights Owners and others, and may establish new Services that offer such services, and that Data Rights Owner shall have no right in any such new services, and shall receive no compensation therefore, except to the extent otherwise explicitly set forth in a CESL.
+
+A Data Rights Owner that has entered a CESL with Data Store will reasonably cooperate with Data Store in causing any third party services to be made interoperable with the Services.
+
+Subject to the applicable CESL, Data Rights Owner will reimburse and hold Data Store harmless from and against all costs paid by Data Store with respect to third party charges incurred on Data Rights Owner’s behalf in Data Store’s fulfillment of such CESL.
+
+Data Store may use and apply any such third party connection or arrangement that was originally established for one Data Rights Owner to also interoperate with any other Data Rights Owner without the prior written consent of Data Rights Owner, provided however, that it shall provide notice of such use to the Data rights Owner with which it entered the CESL covering such connection, and shall reduce or eliminate any future payments required to be paid by such Data Rights Owner to reflect the sharing of such expenses across the group of Data Rights Owners for which the connection or arrangement offers an advantage .
+
+5.4. Non-Exclusivity
+
+Nothing herein shall prevent: (i) The Data Store from providing services (including the Services as defined herein) to any other Data Rights Owner or any third party, or (ii) the Data Rights Owner from obtaining any type of services (including Services) from any other Party.
+
+6. SECURITY OBLIGATIONS
+
+As an integral part of each of the Services provided hereunder, Data Store shall be fully and solely responsible to Data Rights Owner for ensuring (and will take such actions to ensure) the security and integrity of Vault Data at a level that is no less than (but may exceed) the standard of care established by __________ or the standard of care that is conformant to the standards set forth in Schedule 6, whichever is greater, applicable to a particular element of each set of standards. The relevant standards of care are those relating to (i) the security and data and process integrity of the collection, storage, use, combination, processing, compilation, transmission, sharing, and disposal, and all other activities in which Data Store engages in providing Services with respect to Vault Data and (ii) all physical and actual and virtual (e.g., cloud) equipment, storage facilities, and transmission facilities on which or through which Vault Data is stored, processed, compiled, or transmitted (iii) physical, technical and policy infrastructure intended to prevent and detect Data Store employee or independent contractor and third party unauthorized access and use of Vault Data and related fraud, abuse, or other unplanned uses.
+
+The security obligations that are imposed on Data Store by this section 6 shall not extend
+to Circulating Data, provided, however, that the Data Store shall keep and maintain confidential those elements of its protocols, techniques, and processes used to achieve the de-identification of Vault Data necessary to create Circulating Data, to the extent that the revealing of such processes would enable Observer Users of Circulating Data to “reverse engineer” Vault Data from Circulating Data, provided however, that Data Store is obligated to be transparent about its de-identification processes to a degree sufficient to be able to demonstrate that it has satisfied the objective tests necessary to qualify for the Circulating Data safe harbor set forth in section ___, and provided further that Data Rights Owner will indemnify and hold Data Store harmless from and against any liability for Observer User Re-identification of Circulating Data that was not the result of Data Store negligence in the process of De-identification or Data Store failure to keep confidential its De-identification processes.
+
+7. DATA RIGHTS OWNER-RETAINED AUTHORITY AND OBLIGATIONS
+
+7.1. Data Rights Owner Authority
+
+Data Rights Owner shall retain all of its pre-existing intellectual property and proprietary rights and fundamental rights in Vault Data that they transfer to the Data Store, or that is transferred to the Data Store on their behalf. Data Rights Owner shall also exercise all decision-making authority with respect to the overall application of the Services with respect to the Vault Data under this Agreement, provided that Data Rights Owner may delegate part of such authority to Data Store as necessary for it to enjoy the Services, or under one or more CESLs. Data Rights Owner acknowledges and agrees that Data Store will apply de-identification processes to any Vault Data to generate Circulating Data that is not subject to this section 7.1 or any of the other provisions of this Agreement Applicable to Vault Data. While Data Rights Owner will always retain some rights in Vault Data, its rights regarding Circulating Data under this agreement are limited solely to the receipt of such compensation for the use of such data as is made available from time to time by Data Store under this Agreement
+
+7.2. Access to Data and Cooperation
+
+In acknowledgement of the Parties’ mutual interest in the development and deployment of effective, efficient, reliable and predictable Data Store Services, the Parties agree that they will reasonably cooperate with one another in all matters relating to Data Store’s performance of the Services. Such cooperation shall include (but not be limited to) Data Owner providing Data Store with reasonable access to Vault Data as reasonably required by Data Store to perform the operational, administrative, technical, and other functions reasonably necessary to provide and improve the Services.
+
+8. FINANCIAL TERMS
+
+This Agreement anticipates a variety of Services each of which has different values and economics for the Parties, and payment terms to reflect and support those economics. The Agreement anticipates that payments will be made both from Data Store to Data Rights Owner and from Data Rights Owner to Data Store, depending on the circumstances as further described below. It is anticipated that such payments will be “netted” against one another, with the overall intention being that, except in the unusual circumstance, Data Rights Owners will not typically be required to pay for Services
+
+8.1. Fees for Data Acquisition and Collection Services,
+
+Data Acquisition and Collection Services are provided to Data Rights Owners without charge by Data Store.
+
+8.2. Fees for Vault Data Warehousing and Data Integrity Services,
+
+8.2 (a) Nature of Services: See description of services in section 3.____.
+
+8.2 (b) Fees: Vault Data Warehousing and Data Integrity Services are provided for a fee that is equal to the average daily “cloud-based storage index” that is calculated in the manner set forth in Schedule 8.2.
+
+8.3. Commissions for Vault Data Sharing Services
+
+8.3 (a) Nature of Services: As provided in section 3, Data Stores may not share Vault Data with any third party without Data Rights Owner’s permission. That permission may be granted by Data Rights Owners on a per event basis, by reference to categories of data, by identification of limited sets of permitted Observer Users, or any other method agreed upon by the Data Store and the Data Rights Owner from time to time under this Agreement. Data Stores may only share Vault Data on behalf of Data Rights Owner, acting in a capacity as a data version of a “data publicity agent” pursuant to the Agency Terms set forth under section 3._____with respect to any such third party use. In all sharing activities involving Vault Data, and in recognition of Data Rights Owner’s primacy in determining the use and disposition of Vault Data, the Data Store will act on behalf of and in the best interests of Data Rights Owner when engaging in any Vault Data Sharing Services.
+
+8.3 (b) Fees: Data Store, acting in capacity as agent for Data Rights Owner pursuant to the Agency Terms set forth under section 3.____, shall generate a “Shared Vault Data Commission” from providing Vault Data Sharing Services. The commission shall be calculated in the manner provided in Schedule 8.3 (b).
+
+8.4. Payments for Circulating Data Leverage
+
+8.4 (a) Nature of Services: Data Store may share, transfer, license, exploit, monetize and otherwise use Circulating Data freely and without Data Rights Owner’s permission or consent. Data Rights Owner acknowledges and agrees that Circulating Data is de-identified data, and no direct interests of Data Rights Owner are negatively affected by such use; there is no risk of direct intrusion harm solely as a result of the making available of or sharing with third parties of such Circulating Data. However, the Parties recognize that the source of Circulating Data is the Data Rights Owner (alone or in combination with Vault Data delivered to the Data Store by other Data Rights Owners from which the Data Store receives data.
+
+Thus, while the Data Store may use and transfer Circulating Data in its discretion, it must also account to and compensate the Data Rights Owner for a portion of the value realized by Data Store attributable to each Data Rights Owner’s Vault Data from which the Circulating Data was derived. This payment is roughly analogous to that paid by an oil refining company to a drilling company for unrefined crude oil; the Vault Data made available by the Data Rights Owner is the “feedstock” of the data leverage (multiple users) in the Circulating Data markets.
+
+8.4 (b) Fees: Data Stores shall pay to (or credit against the charges imposed on) Data Rights Owner a periodic fee calculated in the manner set forth in Schedule 8.4(b) as the amount of revenue generated from the data leverage of Circulating Data originated and derived from Vault Data received from Data Rights Owner, less allocable direct and indirect costs of providing the Service, less Data Store profit (the “Circulating Data Origination Fee”).
+
+8.5. Fees for Data Portability Services
+
+8.5 (a) Nature of Services: See section 3.___for a description of the Data Portability Services provided by Data Store hereunder.
+
+8.5 (b) Fees: Data Store shall not charge any fee to Data Rights Owner for any Data Portability Services
+
+8.6. Fees for Vault Data Unauthorized Access Recovery Services
+
+8.6 (a) Nature of Services: See section 3.___for a description of the Data Portability Services provided by Data Store hereunder.
+
+8.6 (b) Fees: Data Store shall not charge any fee to Data Rights Owner for any Data Portability Services. Data Store may have to pay or credit a Fee Reduction with respect to incidents of Unauthorized Access Recovery that also constitute a breach of this Agreement or one or more ESLs or CESLs.
+
+8.7. Shared Savings – Other Costs
+
+As part of the Services provided by it hereunder, Data Store will use commercial best efforts to continue to increase the efficiency of the systems through which the Service is provided and reduce the costs of such services, all without diminution of its services or violation of the terms of this Agreement and any ESL or CESL.
+
+8.8. Third Party Service Costs
+
+Data Rights Owner will bear costs associated with the provision of services by third parties (other than __________) that are incurred by Data Store on behalf of Data Rights Owner. Any such costs will be invoiced by Data Store to Data Rights Owner, and shall be payable by Data Rights Owner without any increases, surcharges, service fees, or other additions added as line items to a Data Rights Owner invoice, provided however, that the Data Store may recover its operational, administrative and other costs associated with administering such charges through the mechanism of including such charges in the overall overhead costs that are included in it fee calculations for the Services.
+
+8.9. Accounting and Audit
+
+8.9 (a) Data Store shall, at such times and in such form as is indicated in Schedule 8.9(a) hereto, provide Data Rights Owner with a full accounting of all relevant portions of Data Store’s books and records relating to the Services to enable the Data Rights Owner to verify the calculations provided for in this Section 8. Data Store shall provide reasonable access to such information relating to this Agreement and Data Store’s business as may be necessary to confirm the accuracy of the fees, Fee Reductions, Fee Offsets and other payment and pricing adjustment computations for any given year.
+
+8.9 (b) Any overcharges, undercharges, or errors in computation discovered by a Data Rights Owner and reported to the Data Store that are verified by the Data Store shall be reflected as compensating adjustments on the next invoice issued by Data Store following the date of the completion of such verification.
+
+8.9 (c) Where Data Rights Owner discovers any net overcharges in excess of five percent (5%) of the amount that should have been payable by Data Rights Owner hereunder, Data Store shall, upon request (i) reimburse Data Rights Owner for all costs associated with such review of the accounting; (ii) refund or credit Data Rights Owner (at Data Rights Owner’s option) the full amount of such overcharges; and, (iii) pay Data Rights Owner interest on the amount payable under (i) and (ii) at a rate equal to two (2) percentage points above the floating “prime rate” as published from time to time by The Wall Street Journal.
+
+8.10. Taxes
+
+8.10 (a) Data Rights Owner shall pay any applicable taxes that may be levied on it and based upon this Agreement or the Services provided by Data Store hereunder, including sales, use, value-added, excise, and similar taxes, (such taxes collectively, but excluding taxes levied or imposed upon or with reference to the net income or business privileges of Data Store, referred to as “Data Rights Owner Taxes”).
+
+8.10 (b) To the extent Data Store is required under applicable law to collect and remit any Data Rights Owner Tax, Data Store shall invoice Data Rights Owner the amount of such tax, as a separate line item, and Data Rights Owner will pay such tax as part of such invoice.
+
+8.10 (c) Data Rights Owner shall have the right, in its sole discretion and at its cost, to contest the validity of the imposition of any Data Rights Owner Tax. Data Store agrees to reasonably cooperate with Data Rights Owner in all such contests, and to reasonably cooperate to facilitate the coordination among Data Rights Owners in any such contest, at their request and cost. In no event shall Data Store be required to pay any Data Rights Owner Tax that is has not collected from Data Rights Owner, and Data Rights Owner shall hold Data Store harmless against and remit to Data Store an amount equal to any such actual payment made by Data Store to the relevant taxing authority, as well as the amount of any fees, penalties or late charges related thereto, as a result of any determination in connection with any contest with taxing authorities. Data Rights Owner shall not be responsible for any penalties, interest or other charges assessed due to Data Store’s negligence.
+
+8.11. Services Benchmarking
+
+As part of the Services, Data Store shall organize and operate a program to enable comparison of its Services to those of other Data Stores offering [similar services][Services under the same form of Agreement] (the “Benchmarking Program”). The Benchmarking Program will be designed, developed and deployed in a manner that can best enable Data Rights Owners to compare Service quality, fees structures, and data leverage monetization results for both Vault Data and Circulating Data across different offerings of Data Store services.
+
+8.12. Fee Reductions
+
+This Section 8.12 (and Schedule 8.12) specify certain “Fee Reductions.” It is understood that these Fee Reductions are intended to reflect, to some extent, the diminished value of Data Store’s Services in certain limited and identified events where system performance does not conform to a relevant ESL. Fee Reductions are intended to incentivize consistent performance by Data Stores and to provide an efficient and satisfactory method of recovery for Data Rights Owners that experience system performance issues of the types set forth in Schedule __ from time to time. Fee Reductions are not, however, intended to be the sole method through which a Data Rights Owner can seek compensation for any breach or default by Data Store under this Agreement, and such other remedies can also be pursued, provided that any Fee Reduction applied to benefit a Data Rights Holder under this Agreement shall reduce the amount of any damages or other payments subsequently received from Data Store to compensate Data Rights Owner for the same incident that led to a Material Default. Fee Reductions are not intended to be liquidated damages, penalties or similar charges.
+
+Fee Reductions will not be imposed in the event the ESL System performance issue is attributable primarily to: (i) an act or omission of Data Rights Owner; (ii) a Force Majeure event; or (iii) changes in technology equipment or architectures that are implemented by Data Rights Owner without the prior approval of Data Store.
+
+8.13. Payment Netting and Fee Offsets
+
+[To Come]
+
+8.14. Exclusive Payments; Responsibility for Costs
+
+The fees set forth in this Section 8 are the only payments to be made by either party to the other under this Agreement. Data Store shall be solely responsible for, and shall indemnify and hold Data Rights Owner harmless against, all costs and expenses incurred by Data Store that are necessary to meet Data Store’s obligations arising under this Agreement
+
+8.15. Invoices
+
+Data Store shall furnish Data Rights Owner with a single online monthly invoice and report of Circulating Data revenue generation (the “Invoice and Data Leverage Report”) substantially in the form set forth in Schedule 8.15, setting forth in detail all net charges, if any, payable by Data Rights Owner. Data Rights Owner shall pay the net charge, if any, reflected on each online monthly invoice no later than thirty (30) business days after receipt.
+
+8.16. Reports
+
+All invoices shall be prepared by Data Store in a manner that shall provide Data Rights Owner with sufficiently detailed information to enable Data Rights Owner to trace the status of all payments under section 8, and the types of data sources and data leverage opportunities that create the greatest value for Data Rights Owner and Data Store, and at least as much information as set forth in the sample Invoice and Data Leverage Report set forth at Schedule 8.15
+
+9. DATA STORE RESOURCES
+The Parties recognize that trustworthy Data Store systems depend on reliable technology and predictable performance of people involved at all levels of providing the service. This section details the Parties’ expectations regarding such technology and human components of the System.
+
+9.1 Personnel Requirements
+
+Data Store shall make available such personnel as are necessary to properly perform Data Store’s obligations under this Agreement at performance levels that are at or exceed those set forth in this Agreement, the schedules, the ESLs and any CESLs, if any
+
+9.2 Minimum Proficiency Levels
+
+Data Store’s personnel assigned by Data Store to perform Data Store’s obligations under this Agreement shall have the training, experience, and expertise at least equal to the greater of (i) the highest commercial standards then currently applicable to such personnel for their responsibilities in the types of Service businesses in which Data Store is engaged or (ii) the standards set forth at Schedule 9.2 In addition, the Services overall shall conform to the highest commercial standards applicable to such Services in the business in which Data Store is engaged.
+
+9.3 Unsatisfactory Performance
+
+If Data Rights Owner believes that the performance or conduct of any person employed or retained by Data Store to perform Data Store’s obligations under this Agreement is inconsistent with the terms of this Agreement or is otherwise unsatisfactory, Data Rights Owner shall so notify Data Store through the mechanisms for such reporting provided on the Data Store online interface from time to time, and Data Store shall use commercially reasonable efforts to promptly address the performance or conduct of such person.
+
+9.4. Data Rights Owner’s Policies
+
+[To come]
+
+9.5. Confidentiality and Assignment of Meta-Data Rights
+
+Prior to performing any services pursuant to this Agreement, all Data Store Personnel shall execute the “Data Store Employee Confidentiality Acknowledgment” attached hereto as Schedule 9.5 with respect to the protection of Vault Data and other confidential information and assignment of intellectual property rights in meta data generated by Data Store that qualifies as Vault Data. It shall be a pre-condition for an employee of Data Store to be assigned to the Data Store’s provision of Services that each such Data Store employee shall have first become a party to this Agreement to establish that if and to the extent that they come into possession of Vault Data, they will be bound to those duties set forth in this Agreement both as an employee of the Data Store, and in their personal, individual capacity.
+
+9.6. Anti-Intrusion Policy
+
+When accessing data, computer files, hardware, cloud-based virtual or physical systems and any other systems and facilities over which the Data Rights Owner exercises dominion and control (whether exclusive or shared with one or more third parties), Data Store shall, and shall cause all Data Store Personnel to, abide by all Data Rights Owner policies of which it has notice and to which it has agreed to conform, that may be established by Data Rights Owner from time to time.
+
+9.7. Regulatory Compliance
+
+Data Store shall reasonably assist Data Rights Owner in regulatory compliance to which Data Rights Owner is subject upon Data Rights Owner’s request, and at its cost, and further assist Data Rights Owner (also at Data Rights Owner’s request and cost) to the extent Data Store’s actions taken under this Agreement are attributed to Data Rights Owner. Data Rights Owner agrees to reimburse Data Store for all expenses reasonably incurred and approved in advance by Data Rights Owner in complying with this Section 9.3.
+
+9.8. Operational Change Procedure
+
+Data Store may make operational changes in the manner in which it provides the Services,
+such processes as the Parties mutually agree upon from time to time.
+
+10. PROPRIETARY RIGHTS; OWNERSHIP OF VAULT META-DATA AS ANALOGOUS TO COPYRIGHT WORK PRODUCT
+
+Data Rights Owner shall be the owner of all of the rights in Vault Meta Data that are equivalent to those recognized under this Agreement with respect to Vault Data generally, and which Vault Meta Data rights shall be treated in a manner like traditional copyright work product, and of all copyright, patent, trademark, trade secret, and other intellectual property and proprietary rights in the Vault Meta Data, if any. Data Rights Owner shall own all such Vault Meta Data rights equivalent to ownership in the Meta Data starting from the earlier of the date of collection or creation of such Vault Meta Data by or on behalf of the Data Store.
+
+Each copyrightable element of the Vault Meta Data, if any, will be treated in a manner similar to its being made as a “work made for hire” within the meaning of the Copyright Act of 1976, as amended. To the extent that the Vault Meta Data is concluded by a court not to be a “work made for hire” within the meaning of the Copyright Act of 1976, as amended, Data Store hereby assigns all right, title, and interest in and to the Vault Meta Data, and all physical or other copies thereof, and including, but not limited to, the copyright, patent, trademark, trade secret, and all other proprietary rights in the Vault Meta Data exclusively to the Data Rights Owner, without any requirement for payment by Data Rights Owner to Data Store, or any other retention of rights by Data Store. Data Store shall obtain agreement from any employees, independent contractors, or subcontractors of Data Store that will perform any services relating to this Agreement, of similar obligations to those described above so as to ensure Data Rights Owner’s acquisition of rights equivalent to ownership of the Vault Meta Data. Data Store agrees and acknowledges that Data Rights Owner does not intend Data Store to be a “joint author” of the Vault Meta Data within the meaning of the Copyright Act of 1976, as amended. Data Rights Owner hereby grants to Data Store a worldwide, non-transferable, non-exclusive personal license to use any Vault Meta Data solely to provide Services to Data Rights Owner and to produce Circulating Data pursuant to the terms and subject to the limitations of this Agreement. If and to the extent that Data Rights Owner agrees to the terms and conditions of the license agreement attached hereto as Exhibit____, Data Store may use the Vault Meta Data in connection with the provision of Services to one or more of Data Store’s other customers. The prior sentence shall not in any way restrict the rights of Data Store to use Circulating Data that is created or generated from and with respect to any Vault Meta Data in the manner and to the extent contemplated by this Agreement, and Data Store shall have all rights to use, distribute, copy, make derivative works of, perform and transfer Circulating Data that is derived from Vault Meta Data in a manner that is equivalent to that available to it with respect to Circulating Data that is derived from Vault Data. Data Store shall promptly and fully disclose and make available the Vault Meta Data to Data Rights Owner, and Data Store shall execute and deliver any and all applications, assignments, and other documents that Data Rights Owner requests, at Data Rights Owner’s expense, for protecting its rights in the Vault Meta Data worldwide. To the extent that such actions are required to confirm or perfect such rights, Data Rights Owner shall have the full and sole power to prosecute such applications and to take all other action with respect to the Vault Meta Data, and Data Store shall cooperate fully, at the request and expense of Data Rights Owner, in the preparation and prosecution of all such applications and in any legal actions and proceedings concerning the Vault Meta Data. Data Store shall retain all right, title, and interest in all ideas, residuals, know-how, data, information, and techniques developed by Data Store that are not Vault Meta Data, provided that Data Store hereby grants to Data Rights Owner a perpetual, non-exclusive, worldwide, irrevocable, royalty-free license to use any such ideas, know-how, and techniques that are embedded in or otherwise inseparable from the Vault Meta Data.
+
+Notwithstanding anything herein to the contrary, upon termination of this Agreement for any reason, Data Store shall not be obligated to transfer any Circulating Data to Data Rights Owner, even if such Circulating Data was derived from Vault Data originally contributed by such terminating Data Rights Owner. From and after such termination, and the corresponding return of Vault Data to the Data Rights Owner, Data Store shall not create any additional Circulating Data from the Vault Data of such Terminating Data Rights Owner, if any, that remains in its possession or control, but may continue to use any Circulating Data derived prior to such date, and may generate Circulating Data from other Circulating Data so produced without limitation hereunder.
+
+10.1. Third Party Rights
+
+It shall be the responsibility of Data Store to obtain all rights and licenses from third parties that are required for it to perform the Services. Data Store grants to Data Rights Owner, and will cause to be granted, without cost to Data Rights Owner, such rights, permissions, licenses and sublicenses as may be necessary in order for Data Rights Owner, to use the Services.
+
+In addition, following a Vault Data Portability Event [and Vault Data Release], Data Store shall use its commercially reasonable best efforts to provide, or cause to be provided, to Data Rights Owner, such rights, licenses (including third party licenses, if sublicensable), and permissions as are necessary for Data Rights Owner to enjoy the use of the services provided by another Data Store.
+
+10.2. Non-Infringing Services
+
+[To come]
+
+11. TERM AND TERMINATION
+
+11.1. Initial Term; Renewals
+
+The period during which Data Store shall be obligated to provide the Services under this Agreement shall commence on the Effective Date and end on ___________.
+
+11.2. Termination For Convenience
+
+Data Rights Owner has the right to terminate any of the Services described in Section 3 at its convenience without prior notice to Data Store, provided that such termination shall be effected only through the “termination of service” processes made available on the Data Store website.
+
+11.3. Change in Control Event
+
+[To come]
+
+11.4. Termination for Material Default
+
+Either Party has the right to terminate this Agreement if the other Party commits a Material Default that is not cured pursuant to the provisions set forth in section _____.
+
+11.5. Data Rights Owner Termination for Force Majeure Event.
+
+The Data Rights Owner has the right to terminate this Agreement if a Force Majeure Event prevents Data Rights Owner’s use and enjoyment of the Service or causes a material reduction in the quality of Service. No fees shall be imposed by Data Store on Data Rights Owner for Services rendered to Data Store Owner after the date of receipt of notification of termination from a Data Rights Owner.
+
+11.6. Effect of Termination
+
+This Agreement is designed as a standard form that is intended to be adopted with little or no modification across populations of Data Stores and Data Rights Owners. Such broad adoption helps to establish the “network effect” of the broad risk reduction market that the agreement was intended to carry into effect.
+
+Accordingly, the termination of this Agreement with respect to a particular Data Rights Owner will not affect any other Agreement with any other Data Rights Owner. With respect to a particular terminating Data Rights Owner, this Agreement will remain in effect, notwithstanding the occurrence of a Termination Event, until all duties and obligations of the Parties associated with Termination have been performed, discharged, or excused. In the event of a termination of this Agreement for any reason set forth in this section 11 or the expiration of the term of this Agreement, all Vault Data and Vault Meta Data shall be handled in the manner provided in section 12, and all payments shall be finalized pursuant to section __. Notwithstanding the foregoing, Data Store shall be under no obligation to treat Circulating Data in the manner provided in section 12, and all right title and interest in and to such Circulating Data shall remain with the Data Store notwithstanding the occurrence of a Termination Event or Expiration of this Agreement.
+
+12. VAULT DATA PORTABILITY EVENT AND VAULT DATA RELEASE
+
+Acknowledgement of Rights: To the extent that the Data Store holds or has control of data that is Vault Data (including but not limited to Vault Meta-Data), the parties acknowledge and agree that all such Vault Data is held, maintained, managed, applied, transferred and otherwise used by Data Store solely on behalf of and for the benefit of Data Rights Owner. By contrast, to the extent that Data Store holds or controls Circulating Data, the parties acknowledge and agree that all such Circulating Data is held by Data Store on its own behalf, and that Data Rights Owner has no right, title or interest in or to such Circulating Data (subject to the responsibility of Data Store to pay amounts to Data Rights Owner for its use of Circulating Data that was generated with Vault Data, calculated as set forth in section ___ of this Agreement), unless and until such Circulating data is subjected to “re-identification” processes, once again becoming Vault Data .
+
+12.1. Vault Data Portability Event
+
+Upon the earliest to occur of: (i) the expiration of the Term (ii) Data Rights Owner’s providing of Notice of Termination or (iii) a Termination of this Agreement under section 11, the Parties will take the following actions to carry into effect Data Rights Holder’s right to Vault Data and Vault Meta Data portability (collectively, “Vault Data Portability Actions “):
+
+12.1(a) The Parties shall cooperate with one another to carry into effect a transition with minimal interruption of the Services being terminated from Data Store to an alternative Data Store provider selected by Data Rights Owner as its new data rights management service provider ;
+
+12.1(b) Data Store shall continue to provide the Services over the period of time during which the Vault Data Portability Actions are being taken, and its obligation to provide the Services will end upon the completion of such actions. Data Rights Owner shall be responsible to pay for the Services during such period, pro-rated to reflect the period of time during which the Data Portability Actions are being taken, and offset by any prorated payments due to Data Rights Owner under sections _____;
+
+12.1 (c) In addition to the transfer of Vault Data and Vault Meta-Data by Data Store pursuant to the Vault Data Portability Actions, Data Store shall also make available (or cause to be made available) to Data Rights Owner (and to such replacement provider of services relating to such Vault Data), such rights in any technology (including software, “cloud-based” and other third party services, and other services and rights) as are necessary for Data Rights Owner to continue to enjoy the use of Vault Data and Meta Vault Data, without infringing any rights of Data Store, in a manner that is reasonably consistent with the use of such data that was made available to it through the Services, provided that Data Store may charge a reasonable and non-discriminatory charge for any such “transition rights” if and to the extent that such rights are separately invoiced or charged for to other customers. ; and
+
+12.1 (d) Following the completion of the Vault Data Portability Actions, Data Store shall delete all Vault Data and Vault Meta Data and destroy (or have destroyed) all copies thereof, and shall disable and render ineffective any other means of permissioned access to such Vault Data that are held by Data Store or its third party subcontractors, if any. Data Store shall not be responsible for the deletion or destruction of or disablement of access to any Vault Data or Vault Meta Data that it transferred or made available to any third parties at the request of and on behalf of Data Rights Owner, and Data Rights Owner acknowledges and agrees that it is responsible for understanding any such third party terms and portability processes and engaging in the actions needed to effect a return or removal of such permissioned access of such data held by third parties, and will not require Data Store to engage in such destruction, return, or removal actions with respect to such data on its behalf; provided, however, that the Data Store may agree, in its sole discretion, to provide assistance to Data Rights Owner with respect to any such recovery of third party data.
+
+13. DEFAULT; LIMITATION OF LIABILITY
+
+13.1. Remedies
+
+13.1(a) Data Rights Owner’s Remedies
+
+Upon the occurrence of a Material Default under this Agreement that remains uncured, Data Rights Owner shall be entitled to Terminate this Agreement under section 11. Data Rights Owner’s termination of this Agreement shall not constitute its sole and exclusive remedy for such default, nor a waiver by Data Rights Owner of its rights to bring such other actions, in law or equity, as may be available to it with respect to the default.
+
+13.1(b) Data Store’s Remedies
+
+If Data Rights Owner commits a Material Default under this Agreement, including but not limited to Data Right’s Owners default under Section 8 (fee payment), Data Store will be entitled to Terminate this Agreement under section 11. Data Store’s termination of this Agreement shall not constitute its sole and exclusive remedy for such default, nor a waiver by Data Store of its rights to bring such other actions, in law or equity, as may be available to it with respect to the default. In no event will Data Store’s remedies in the event of a default include the right to restrict access by a Data Rights Owner of Vault Data or Vault Meta Data
+
+13.2 Limitation of Liability
+
+IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER FOR ANY PUNITIVE, SPECIAL, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES, INCLUDING, BUT NOT LIMITED TO, LOST PROFITS, LOST INCOME OR LOST REVENUE. EXCEPT AS OTHERWISE EXPRESSLY PROVIDED BELOW, EACH PARTY’S AGGREGATE CUMULATIVE LIABILITY HEREUNDER FOR ALL DIRECT DAMAGES ARISING UNDER OR RELATING TO THIS AGREEMENT NOTWITHSTANDING THE FORM OF SUCH ACTION (WHETHER IN CONTRACT, TORT, OR OTHERWISE), SHALL BE LIMITED TO DATA STORE’S NET REVENUE GENERATED BY DATA STORE WITH RESPECT TO DATA (INCLUDING VAULT DATA, VAULT META DATA AND CIRCULATING DATA) THAT IS ASSOCIATED WITH DATA MADE AVAIALBLE TO DATA STORE AS A RESULT OF THE MAINTENANCE OF DATA RIGHTS OWNER’S ACCOUNT. THE FOREGOING LIMITATION ON DATA STORE’S LIABILITY SHALL NOT APPLY TO CLAIMS FOR WHICH DATA STORE OWES A PAYMENT TO DATA RIGHTS OWNER FOR BREACH OF A PARTICULAR ESL or CSLs, CLAIMS THAT ARE SUBJECT TO INDEMNIFICATION BY DATA STORE UNDER SECTION 20 OR CLAIMS WITH RESPECT TO A BREACH OF CONFIDENTIALITY OF VAULT DATA UNDER SECTION 17.8
+
+13.3. Force Majeure Events
+
+Upon the occurrence of a Force Majeure Event a Party may provide notice to the other Party that its performance under this Agreement has been negatively impacted by such Force Majeure Event, following which notice, the Party’s obligation to engage in such performance shall be suspended during the period prior to the time that the affected Party can reasonably once again engage in such performance following the ending of such Force Majeure Event. Following the occurrence of a Force Majeure Event, both Parties shall apply reasonable, good faith efforts to minimize delays in their respective performance under this Agreement.
+
+14. INSURANCE
+
+14.1. Scheduled Requirements
+
+Data Store shall purchase and maintain insurance to protect Data Store from all claims of the type set forth in Schedule 14 (Insurance) that arise out of, relate to, or result from Data Store’s operation, administration or performance of the Services under this Agreement and for which Data Store may be liable.
+
+14.2. General Requirements
+
+Data Store shall purchase and maintain insurance to protect Data Store from all claims of the type set forth in Schedule 14 that arise with respect to its (and its agents, subcontractors and independent contractors that contribute to Data Store’s performance hereunder) provision of Services and performance under this Agreement. Such insurance shall at all times be maintained at least at a level that is the greater of the limits of coverage specified in Schedule 14 or that required under applicable local law to the Services provided to Data Rights Owner. Data Store’s purchase of the insurance required in Schedule 14 shall not relieve it of its other obligations under this Agreement, including but not limited to its obligations to_____________.
+
+15. REPORTS TO DATA RIGHTS OWNER
+
+Data Store shall provide online access to Data Rights Owner to up-to-date reports in the form, with the contents, and of the scope set forth in Schedule 15 hereto. Data Store acknowledges that conformity of its reports with the requirements of Schedule 15 is an important element of Data Portability and Data Rights Owner education, since it enables Data Rights Owners to compare Data Store’s Services to other similar services offered by other parties, and agrees to apply its commercially reasonable, good faith efforts to prepare and present such reports in a form and manner that maximizes Data Rights Owner understanding of and efficacy and proficiency with respect to using the Services and the enjoyment of benefits and minimization of burdens that they can help produce for Data Rights Owners.
+
+16. RECORDKEEPING AND AUDIT RIGHTS
+
+16.1. Recordkeeping
+
+Data Store shall maintain complete and accurate records and books of account with respect to this Agreement consistently applying generally accepted accounting principles (“GAAP”), and in conformity with all applicable laws and accounting rules.
+
+Data Store shall retain, and shall provide electronic access to Data Rights Owner (or its delegate), for the longer of: (i) a period of four (4) years from the end of each calendar year during the Term, (ii) such longer period as may be required by applicable law, all records necessary to confirm and reconstruct the calculation methodology associated with the amounts paid to or credited to the account of Data Rights Owner for any reason under this Agreement for such calendar year.
+
+16.2. Audit Rights
+
+Data Store shall grant Data Rights Owner and its representatives access to the relevant portion of Data Store’s books and records as relate to this Agreement and shall cooperate with and assist Data Rights Owner as is reasonably requested by Data Rights Owner in the performance of such Agreement.
+
+16.3. Data Store’s Obligation to Account as Agent
+
+Data Store obligations relating to Vault Data and Vault Meta Data. Data Store shall provide Data Rights Owner, online, full and complete reports of its accounting records, and operational plans related to this Agreement with at least the information described in Schedule 16.3.
+
+17. CONFIDENTIALITY AND DATA RIGHTS OWNER CONTROLLED DISCLOSURE OF VAULT DATA
+
+17.1. Disclosure of Confidential Information
+
+The Data Store shall:
+
+(a) use such care to prevent disclosure of the Confidential Information to third parties as it employs to avoid disclosure, release, publication, or dissemination of its own confidential information, but in no event less than the greater of (i) a reasonable standard of care and (ii) the duty of care applicable to the industry and jurisdiction in which the Data Store holds Vault Data or from which it controls the Vault Data. ;
+
+(b) use the Confidential Information of the Data Rights Owner solely for the purpose of performing the Services and its obligations under this Agreement; and
+
+(c) promptly return, or provide a copy of any Confidential Information, as the Data Rights Owner directs.
+
+Notwithstanding the foregoing, the Data Store may disclose Confidential Information of the Data Rights Owner to its employees, agents, and subcontractors who have: (i) a need to know such Confidential Information in order to perform their duties; and (ii) have signed an agreement imposing a legal duty to protect the Confidential Information. Data Store assumes full responsibility for the acts or omissions of its subcontractors and employees with respect to such Confidential Information.
+
+17.2. Required Disclosure
+
+The Data Store may disclose Confidential Information to the extent required by law or by order of a court or governmental agency. The Data Store will provide the Data Rights Owner with prompt notice of any such requirement or order and will use its best commercially reasonable efforts to cooperate with the Data Rights Owner, at Data Rights Owner’s request and expense, if they are seeking to obtain a protective order or otherwise protect the confidentiality of such Confidential Information. The terms of this Agreement are not confidential.
+
+17.3. Notification of Data Breach
+
+In the event of any disclosure, loss or unauthorized access to Confidential Information, the Data Store will notify the Data Rights Owner as quickly as commercially reasonable, subject to the requirements of any continuing investigation of such event.
+
+17.4. Injunctive Relief
+
+Data Store acknowledges that any breach of any provision of this Section 17, will cause immediate and irreparable injury to the Data Rights Owner, and in the event of such breach, the Data Rights Owner shall be entitled to injunctive relief, without the necessity of posting any bond or other security, and to any and all other remedies available at law or in equity.
+
+17.5. Return of Confidential Information
+
+In addition to any other obligations owed by Data Store to Data Rights Owner under this Agreement the Data Store shall promptly return or destroy, at the Data Rights Owner’s option and request, the Data Rights Owner’s Confidential Information and all copies thereof, and shall certify to the Data Rights Owner that it no longer has in its possession or under its control any Confidential Information in any form whatsoever, or any copy thereof.
+
+18. LEGAL COMPLIANCE
+
+Both Data Store and Data Rights Owner shall at all times perform their obligations under this Agreement in conformity in all material respects with all relevant national, state, and local laws and regulations of all applicable jurisdictions, and in such a manner as not to cause the other Party to be in material violation of any applicable laws or regulations.
+
+19. REPRESENTATIONS AND WARRANTIES
+
+19.1. Data Store’s Representations, Warranties, and Covenants
+
+19.1(a) Performance of the Services
+
+Data Store warrants that all Services provided hereunder will be performed in a good workmanlike manner and that materials and Services provided by Data Store will conform to and perform in accordance with the specifications stated herein and in each Schedule, if applicable, and in all associated documentation.
+
+19.1(b) Proprietary Rights Infringement
+
+Data Store covenants that Services, and techniques, or products provided or used by Data Store do not infringe upon any third party’s patent, trademark, copyright, or other proprietary or intellectual-property right, nor make use of any misappropriated trade secrets.
+
+19.1(c) Warranty as to Vault Data Integrity and absence of Data Retro-Viruses
+
+Data Store warrants that the Services do not contain any elements or functionality that will alter, modify, delete, update, transfer, use or otherwise modify Vault Data in a manner that is not known, or could not be known, to the Data Rights Owner through the exercise of reasonable diligence commensurate with their history of usage patterns of the system .
+
+19.1(d) Legal and Corporate Authority
+
+Data Store represents and warrants that: it is a [benefit] corporation duly formed and in good standing under the laws of [New York?]________ and is qualified and registered to transact business in all locations where the performance of its obligations hereunder would require such qualification; it has all necessary rights, powers, and authority to enter into and perform this Agreement, and the execution and performance of this Agreement by Data Store will not violate any law, statute, or regulation and will not breach any agreement, covenant, court order, judgment, or decree to which Data Store is a party or by which it is bound. Data Store represents and warrants that it has, and covenants that it shall maintain in effect, all licenses and permits necessary for it to provide the Services contemplated by this Agreement.
+
+19.1(e) LIMITED REPRESENTATIONS AND WARRANTIES
+
+DATA RIGHTS OWNER RECOGNIZES THAT OPERATION OF A DATA STORE IS A COMPLEX UNDERTAKING AND AGREES TO ACCEPT THE SERVICES CONDITIONED ON THE FOLLOWING LIMITATIONS OF DATA STORE LIABILITY.
+
+DATA STORE DOES NOT PROMISE THAT THE SERVICES WILL BE ERROR-FREE OR UNINTERRUPTED, OR THAT DATA RIGHTS OWNER’S USE OF THE SERVICES WILL PROVIDE SPECIFIC RESULTS. THE SERVICES ARE DELIVERED ON AN “AS-IS” AND “AS-AVAILABLE” BASIS. DATA STORE CANNOT ENSURE THAT ANY FILES OR OTHER DATA DATA RIGHTS OWNER DOWNLOADS FROM THE SERVICES WILL BE FREE OF VIRUSES OR INCOMPATIBLE ELEMENTS. EXCEPT AS SPECIFICALLY SET FORTH HEREIN, DATA STORE DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTIES OF ACCURACY, NON-INFRINGEMENT, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ASSOCIATED WITH THE SERVICES. DATA STORE DISCLAIMS ANY AND ALL LIABILITY FOR THE ACTS, OMISSIONS AND CONDUCT OF ANY THIRD PARTIES IN CONNECTION WITH OR RELATED TO DATA RIGHTS OWNER’S USE OF THE SERVICES. DATA RIGHTS OWNER ASSUMES ALL RESPONSIBILITY FOR ITS USE OF THE SERVICES.
+
+19.2. Data Rights Owner’s Representations, Warranties, and Covenants
+
+Data Rights Owner covenants, represents and warrants that it will not use the Services, any Vault Data or any Circulating Data for any purpose that is unlawful or prohibited by this Agreement, or to solicit the performance of any illegal activity or other activity which infringes the rights of Data Store or others.
+
+Except as specifically set forth above, Data Rights Owner does not make any representation or warranty with respect to the Vault Data or any other data it transfers or causes to be transferred to Data Store and all such data that is made available or conveyed by Data Rights Owner to Data Store under this Agreement are made available or conveyed to Data Store “AS IS, WHERE IS” and there are no warranties of any kind with respect to the condition, capabilities, or other attributes of such items, except as otherwise expressly stated in this Agreement.
+
+19.3. Disclaimer
+
+EXCEPT AS EXPRESSLY STATED OTHERWISE HEREUNDER, NEITHER PARTY MAKES OR HAS MADE ANY EXPRESS WARRANTIES TO THE OTHER PARTY. THERE ARE NO IMPLIED WARRANTIES OR CONDITIONS, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR PARTICULAR PURPOSE.
+
+20. INDEMNIFICATION
+
+[To come]
+
+21. DISPUTE RESOLUTION
+
+The Parties recognize that the operation of the Data Store is a complex administrative undertaking, and that challenges will arise in the operation of the Services which can be most effectively and fairly resolved through maximum cooperation of Data Store and Data Rights Owner parties. The parties will engage in such dispute resolution processes in the spirit of resolution that they are intended to support, and in an effort to assure the most satisfactory result for all parties, balanced with overall system efficiency and function for all Data Rights Owners.
+
+Toward this end, the Parties intend that all disputes between them of any nature relating to this Agreement will be resolved through the procedures of Schedule 21, except that the dispute resolution processes described in Schedule 21 will not replace or supersede any other remedy to which a party is entitled under this Agreement or under applicable law.
+
+22. PUBLICITY
+
+Data Store shall not use Vault Data or Vault Meta Data to advertise, demonstrate, or publicize its services, except with the express permission of Data Rights Owner to which it relates. Data Store may use Circulating Data in any manner that it desires, including for advertising, demonstration or publicizing Data Store Services. Data Rights Owner may use Vault Data in any way it chooses, subject to the system performance requirements and limitations of the Data Store action set forth in this Agreement.
+
+23. USE OF AFFILIATES AND SUBCONTRACTORS
+
+Data Store shall be responsible for supervising the activities and performance of each of its subcontractors. Data Store’s hiring and retention of such subcontractors shall not constitute a delegation of its duties under this Agreement, and Data Store shall be and remain jointly and severally responsible with each subcontractor under this Agreement for any act or failure to act of such subcontractor.
+
+24. MISCELLANEOUS
+
+24.1. Entire Agreement
+
+This Agreement, including the Schedules and Exhibits hereto, constitutes the entire understanding and agreement between the Parties with respect to the transactions contemplated herein and supersedes all prior or contemporaneous oral, electronic or written communications with respect to the subject matter hereof.
+
+24.2. Captions; Section Numbers
+
+Captions, Tables of Contents, and Schedule titles are provided for convenience only and may not be used in the construction or interpretation of this Agreement.
+
+24.3. Assignment
+
+Neither party may assign their rights or delegate their duties under this Agreement.
+
+24.4. Notices
+
+Except as expressly otherwise stated herein, all notices, requests, consents, approvals, or other communications provided for, or given under, this Agreement, shall be provided electronically in the manner set forth on the Registration Page of the website through which the Data Rights Owner’s use of the Services is administered.
+
+24.5. Amendments; Waivers
+
+No waiver or breach of, or default under, any provision of this Agreement will be deemed a waiver of any other provision, or of any subsequent breach or default of the same provision, of this Agreement.
+
+24.6. Legal Status of Parties
+
+Except as specifically provided herein, (i) this Agreement will not be construed to constitute either Party as a representative, agent, employee, partner, or joint venturer of the other, (ii) Data Store is an independent contractor for the performance of Services under this Agreement, and (iii) Data Store will not have the authority to enter into any agreement, nor to assume any liability, on behalf of Data Rights Owner, nor to bind or commit Data Rights Owner in any manner.
+
+24.7. Severability
+
+If any provision of this Agreement is determined to be invalid or unenforceable, that provision shall be considered to be removed from the Agreement and the remainder of the Agreement will continue in full force and effect insofar as it can still be interpreted to accomplish the original intent of the Parties.
+
+24.8. Governing Law
+
+This Agreement and the performance of the Parties hereunder shall be governed and construed in accordance with the substantive laws of the State of New York. All actions or proceedings arising out of, or related to, this Agreement shall be brought only in an appropriate federal or state court in New York County, New York and the Parties hereby consent to the jurisdiction of such courts over themselves and the subject matter of such actions or proceedings.
+
+24.9. No Third-Party Beneficiaries; Data Observer User Obligations
+
+This Agreement is an agreement between the Parties, and confers no rights upon any of the Parties’ employees, agents, or contractors or upon any other person, partnership, or entity. Circulating Data End Users owe no legal duties to Data Rights Owners that own the Data Rights to the Vault Data from which such Circulating Data was derived, provided however, that if and to the extent that a Circulating Data End User combines, correlates, or cross references Circulating Data with other data from any source in a manner that results in the derivation of Personal Identifying Information, such Circulating Data will immediately and thereafter be treated as Vault Data by such Circulating Data End User, who will, with respect to such re-identified Vault Data, then automatically, and without any action on the part of Data Rights Owner, assume all of the obligations and duties of a Data Store under this Agreement.
+
+SCHEDULES
+
+SCHEDULE 2
+DEFINITIONS
+
+[PLEASE NOTE: DEFINITIONS ARE NOT YET COMPLETED. THE DEFINITIONS IDENTIFIED TO DATE HAVE BEEN ALPHABETIZED AND HAVE STARTED TO BE MODIFIED, BUT ARE STILL IN DRAFT FORM.]
+
+A
+
+“Affiliate” shall mean, as to any Person, any other Person that, directly or indirectly, controls, is controlled by, is under common control with such Person, whether through ownership of voting securities or otherwise. For this purpose, and without limiting the foregoing, (a) any Person or group of persons owning more than fifty percent (50%) of the outstanding voting securities of any other Person shall be deemed to control such other Person and (b) any Person having the right to direct the management and policies of any other person shall be deemed to control such other person.
+
+“Agreement” shall mean this Data Store Agreement, as amended from time to time, including all attachments, exhibits, and Schedules hereto.
+
+B
+
+C
+
+“Circulating Data” shall mean all data collected, created, held, transferred, or otherwise used by a Data Store in a configuration, association, correlation, cross reference, or other inter-datum or inter-file relationship such that it [is not Vault Data][does not, without more, inform an inference about the identity of either a human or legal Entity in the context in which it is being made available to the immediate transferee.] Note that Circulating Data can become Vault Data with a change in the context of the transferee (user/observer), e.g., a random string of nine numbers in one jurisdiction can be recognized as a social security number in the U.S.
+
+“Circulating Data End User” shall mean any third party that receives Circulating Data from Data Store.
+
+“Confidential Information” shall mean with respect to a given Data Rights Owner Participant, the Vault Data (including Vault Meta Data) of, relating to, or relatable to such Participant. Confidential Information shall not include Circulating Data. Circulating Data and other Re-Identified Data is considered to be Vault Data upon its re-identification, and so is also qualified as “Confidential Information” upon such re-identification.
+
+D
+
+“Data Store Collection Services” shall mean those elements of the Data Stores Trust Framework conformant System applied by Data Store to support Data Rights Owner’s data management services needs with respect to the acquisition of data for protection and use as Vault Data, Shared Vault Data and de-identification preceding its use as Circulating Data.
+
+“Data Integrity” shall mean, with respect to a given standard, the objectively measurable reliability, consistency and accuracy of collected data as determined in accordance with the criteria and methods described in Schedule 3.7.
+
+“Data Rights Owner’s Vault Data” shall mean that subset of Vault Data that was transferred by or on behalf of the Data Rights Owner to the Data Store. While “Vault Data” includes “Vault Meta Data,” the term “Data Rights Owner’s Vault Data” does not include Vault Meta Data. Data Rights Owner’s Vault Data does not include “Vault Meta Data,” that was generated by the Data Store and other system meta data that is not Vault Meta Data, i.e., data relating to such Party’s behavior, Data Store interaction and transaction history, Data Store usage practices, historical transferees of Shared Vault Data and Circulating Data), or received by the Data Store from a third party for use by Data Store in connection with the provision of the Services to such Data Rights Owner. Upon a Data Portability Event, Data Rights Owner receives all copies of Data Rights Owner’s Vault Data, but only receives a copy of the Vault Meta Data.
+
+“De-Identified Data” shall mean those sets of data that when revised, modified, combined with other data, or otherwise altered, are no longer Personally Identifying Information under relevant law or rules applicable to a given context
+
+E
+
+Enrollment
+
+Entity
+
+“Effective Date” shall mean, as to any particular Data Rights Owner, the later of (i) the date on which they agreed to these terms as part of the Data Store Registration Process, or (ii) the date of the completion of their Enrollment by Data Store.
+
+Entities
+
+“ESL” means “expected service level,” and shall reference, as to each Service for which an ESL is specified in this Agreement, the ESL so specified for such task or service.
+
+F
+
+“Force Majeure Event” shall mean an act of “God” or nature, act of governmental body, governmentally authorized body or military authority, earthquake, fire, explosion, storm, power failure, flood, epidemic, riot or civil disturbance, war, sabotage, accidents, insurrections, blockades, embargoes, labor disputes, or similar event that is outside the control of a Party or their ability to have prevented its occurrence
+
+“Fee Reduction” shall mean the amount determined pursuant to Section 8.9 hereof that represents a reduction in the price of Data Store services charged to a Data Rights Owner as the result of a Data Store system deficiency that impacts performance under an ESL set forth in section 4. The price of Data Store Services is potentially offset by both Fee Reductions (offsets for ESL deficiencies) and Fee Offsets (netting).
+
+“Fee Offset” shall mean the amount determined pursuant to Section __ hereof by which the charges that would otherwise be invoiced by Data Store to Data Rights Holder for the provision of Vault Data Storage Services are offset by payments to be made by Data Store to Data Rights Holder. Fee Offsets are calculated as the sum of (i) payments actually received from third parties for the use of Shared Vault Data of the Data Rights Owner (less any Data Store service fee/commission) plus (ii) the percentage of revenue payable to Data Rights Holder for Data Store’s sharing of Circulating Data derived from the Vault Data of such Data Rights Owner. While both Fee Reductions and Fee Offsets reduce the amount owed by Data Rights Owners, they differ in that, while eligibility for Fee Reductions is determined with respect to ESL performance, Fee Offsets are not applied to account for such ESL deficiencies but instead as an incentive to drive innovative use of data consistent with Data Rights Owner’s interests.
+
+G
+
+Group
+
+H
+
+I
+
+“Indemnitees” shall mean, with respect to a Party that is eligible for indemnification under this Agreement, such Party, and their respective officers, directors, employees, agents, successors, and assigns as the case may be.
+
+J
+
+K
+
+L
+
+M
+
+The Term “Material Default” means [NOTE: to come]. The term does not include those Service failures that are accounted for through the ESL/Fee Reduction mechanism and for which a Fee Reduction is then-currently provided pursuant to this Agreement.
+
+N
+
+Nomenclature
+
+O
+
+OAuth 2.0
+
+“Observer User ” means A Party to this Agreement when acting in the role as recipient, transferee, accessor, or authorized user of Vault Data who is authorized by one or more Data Rights Owners to view, access, use designated parts of such Data Rights Owner’s Vault Data and Vault Meta Data, pursuant to the Data Rights Owner’s sharing settings and role relationships with the Observer User. Note that the term “Observer User” does not refer to a party that receives, accesses, etc. Circulating Data.
+
+P
+
+Participant
+
+Party
+
+Permissions
+
+Personal Data Store
+
+Proposed: “Personal Data Store” or “Data Store” means a hybrid system of business, legal and technical subsystems that together enable the provision of Services under this Agreement, and the legal entity that is responsible for organizing and operating such hybrid system. The Data Store provides services to Data Rights Owners with respect to Vault Data, and acts on its own behalf with respect to Circulating Data. The Services associated with Vault Data are in the nature of [agency][fiduciary] services rendered with respect to a protected Resource [owned and] controlled by a Data Rights Owner and designed, developed and deployed to reliably collect, hold, process and dispose of the Data Rights Owner’s Vault Data. The Data Rights Owner controls access to use, modification, copying, derivative works, and redaction or deletion of the Vault Data they enter or make available to the Trust Framework Personal Data Store, including, without limitation, Vault Data entered based upon sensor data passively collected from the Participant’s smartphone, and also including, without limitation, audio, text, or survey responses input actively by the Participant.
+
+Policy Authority
+
+Principal User
+
+“Data Rights Owner” means a Party acting in the role of a Service recipient who has the right to determine whether and to what extent it will share, by the granting of Permissions, Vault Data including Vault Data intended for transmission to, storage in, quantification by and sharing through the Reality System. Through use of the Services, the Data Rights Owner can effect the transmission of or permit access to Vault Data , including behavioral, location and other data to third parties and to the Reality System through web-based systems and mobile devices that have been linked to that Data Rights Owner during their Enrollment and Registration, or subsequently. The Data Rights Owner owns and controls the rights associated with the use and sharing of Vault Data held by the Data Store and in the Reality System.
+
+“Personally Identifying Information” means the information that can be derived from a particular subset of Vault Data that describes, relates to or is relatable to a particular human being. Data is “relatable” to a particular person if, when brought together in a particular context and made available to a third party, can be reasonably expected to enable that third party to make an inference about the identity of a Participant with a sufficient level of assurance to be of value to such third party.
+
+Problem
+
+R
+
+“Re-Identified Data” means data that was Circulating Data when it was transferred by the Data Store to a third party, but that is then combined with other data, or is re-used in a context, in a manner that causes it to be sufficiently reliable for enabling an inference about the identity of a Participant that it exceeds a certain threshold of PII established for a given context.
+
+Resource Owner
+
+Resource Server
+
+REST Service Interface
+
+Role Relationship
+
+Reality Analysis
+
+Registry
+
+Resource
+Proposed: Resource: Sets of data, as well as the enhanced value in such data that is enabled by the realization of data leverage through the exercise of rights and the performance of obligations under this Agreement. Resource includes Vault Data, Shared Vault Data and Circulating Data as managed with the Services.
+
+Role Relationships
+
+S
+
+Scope
+
+Proposed: Scope: Scope means the degree of authorization provided by a Resource Rights Owner in a particular use of Vault Data Sharing services. When a Resource Rights Owner authorizes access to a Resource Server, the access token also includes one or multiple named Scopes, each designating a subset of the REST Service Interface that has been authorized. Since no authorization is required for the Data Store to share Circulating Data, Circulating Data is not subject to any Scope limitation.
+
+Symbolic User ID
+
+System Entity
+
+System Operator
+
+System Role
+
+System Rules
+
+System Entities
+
+Services
+
+“Services” shall mean the aggregate of Data Acquisition and Collection Services, Vault Data Warehousing Services, Vault Data Sharing Services and Circulating Data Leverage Services all as defined in Section 3.3 hereof.
+
+Shared Vault Data: Shared Vault Data is Vault Data with respect to which a Data Rights Owner has used Data Store Vault Data Sharing Services.
+
+T
+
+Trust Framework
+
+Proposed: Trust Framework: A consensus-based combination of software mechanisms, contracts, and rules for defining, governing, and enforcing the rights and obligations associated with the sharing and protection of data from which PII can be inferred, according to common and independently verifiable standards of performance.
+
+Trust Framework System
+
+Trust Wrapper
+
+“Term” shall mean the period beginning on the Effective Date and running for the duration of the time during which Data Store is obligated to provide the Services under this Agreement. The end of the Term with respect to one Data Rights Owner does not affect the Service agreements of other Parties.
+
+“Third-Party Data Providers” shall mean those third parties from which Data Store collects, receives, procures or otherwise is transferred data that it will hold, process and use for the benefit of, or by or on behalf of, one or more Data Rights Owners. [
+
+U
+
+User
+
+User ID
+
+V
+
+Vault Data: Vault Data means any one or more sets of data that is subject to this Agreement that has been combined, correlated, co-located or otherwise brought together in a particular context such that it creates Personally Identifying Information with regard to a particular Participant.
+
+Vault Data End User: Vault Data End User means any third party either authorized by Data Rights Owner to receive, access or otherwise use any Shared Vault Data, or provided with Circulating Data by the Data Store (for which no prior authorization is required). Examples of Data End-Users include Relying Parties, and commercial, governmental and civic research Entities, and
+
+"Vault Meta Data" shall mean all Vault Data created for Data Rights Owner's use or benefit in connection with this Agreement, by Data Store, or by any other person engaged by Data Rights Owner or Data Store, and all intermediate and/or partial versions thereof whether or not otherwise protectable by law. Vault Meta Data includes, but is not limited to, that set of data that is created by Data Store with respect to the Service usage patterns, of Data Rights Owner’s use of the Service, and which is itself Vault Data as a result of its constituting Personally Identifying Information.
+
+W
+
+X
+
+Y
+
+Z
+
+SCHEDULE 3.2
+
+Data Acquisition and Collection Services (see Section 3.2 and Schedule 3.2),
+
+[To Come – See notes accompanying Section 3.2.]
+
+[Requirements include:
+
+No charge to Data Rights Owners for service
+Use of standard interfaces and data architectures to enhance data portability ]
+
+SCHEDULE 3.3
+
+Vault Data Warehousing and Data Integrity Services (see Section 3.3 and Schedule 3.3),
+
+[To Come – See notes accompanying Section 3.3.]
+
+[Requirements include:
+
+Service involves “lock down” of held Vault Data
+Fee is charged to Data Rights Owners for service
+Fee is offset by revenues shared from Circulating Data leverage activity
+Use of standard interfaces and data architectures to enhance data portability ]
+
+SCHEDULE 3.4
+
+Vault Data Sharing Services (including various identity management and attribute-related services, credentialing services, etc.) (see Section 3.4 and Schedule 3.4)
+
+[To Come – See notes accompanying Section 3.4.]
+
+[Requirements include:
+
+Any transfer or use of any Vault Data by Data Store (other than the creation of Circulating Data) is subject to Data Rights Owner notice and consent.
+
+As long as agreement is fair and accurate, Data Rights Owner notice and consent process associated with this service can be structured to be for single transactions, multiple transactions, all transactions relating to a particular relationship or area or other structures that allow Data Rights Owner to “trust” Data Store to act as its “publicity agent” with respect to use of Vault Data.
+
+Commission is earned by Data Store from revenues associated with permissioned Vault Data use
+
+Other than commission earned by Data Store, the Data Store makes no charge for this Service to Data Rights Owner
+
+SCHEDULE 3.5
+
+Circulating Data Leverage Services (see Section 3.5 and Schedule 3.5)
+
+[To Come – See notes accompanying Section 3.5.]
+
+[Requirements include:
+
+Unlike Vault Data related services, this service is engaged in by Data Store on its own behalf – like a bank engaged in lending money based on fractional reserve lending based on its “vault cash” calculated with reference to its receipts from depository accounts.
+
+Data Store is required to “de-identify” Data to a certain level of safety (entropy) based on objectively testable processes and protocols turning Vault Data into Circulating Data.
+
+Data Store can share Circulating Data (but not Vault Data) with third parties without Data Rights Owner permission.
+
+Data Store generates revenues from use of Circulating Data. Circulating Data feeds “big data” applications to generate value.
+
+A portion of the revenue from Circulating Data is used to offset the Data Rights Owner charges for Warehousing and Protection services for Vault Data.
+
+A small portion of Circulating Data revenues is paid into a pool among Data Stores that funds their creation of a collective “reserve” account to pay “liquidated damages” to Data Rights Owners that experience specific, scheduled system harms for which specific compensation amounts have been established.
+
+Use of a collective reserve among Data Stores creates B2B “peer pressure” for individual Data Stores to conform to Data Store performance standards, since every time the collective reserve is tapped into to pay claims, all Data Stores need to pay more into the reserve.
+
+It is possible that Data Stores will generate revenue to result in net income sufficient so that they can make a profit and share an excess with Data Rights Owners. This is a competitive differentiator among Data Stores that offer both more security, privacy and a greater “return” on data leverage to Data Rights Owners. This package will attract more Data Rights Owners to that Data Store, yielding more Vault Data, which in turn generates more Circulating Data, which in turn generates more data leverage.
+
+Data Stores that perform “de-identification” of Vault Data (to derive Circulating Data) in conformity to objectively testable, agreed upon standards will be given “safe harbor” treatment (by operation of the agreement, not statute or regulation) against an identified class of legal claims. This contractual “safe harbor” is a benefit that provides some of the cost certainty needed to make data leverage service provision attractive to potential data store candidates.
+
+SCHEDULE 3.6
+
+Data Portability Services (see Section 3.6 and Schedule 3.6)
+
+[To Come – See notes accompanying Section 3.6.]
+
+[Requirements include:
+
+Enablement and assistance in movement of Vault Data and Vault Meta Data from one Data Store to another
+
+Data Rights Owners have no rights to portability of Circulating Data
+
+Includes data and software and other functionality needed to make data useful (query about how company proprietary software might be handled here].
+
+No charge to Data Rights Owners for service
+
+Use of standard interfaces and data architectures to enhance data portability ]
+
+SCHEDULE 3.7
+
+Vault Data Unauthorized Access Recovery Services (see Section 3.7 and Schedule 3.7)
+
+[To Come – See notes accompanying Section 3.7.]
+
+[Requirements include:
+
+Standardized set of services associated with Identity Integrity protection, unauthorized access prevention, attack resilience and recovery, and restoration of integrity associated with various sorts of unauthorized access.
+
+No charge to Data Rights Owners for service. Service costs are funded from reserve generated from Circulating Data revenues. Pooled revenues of Data Stores are used to generate efficient pooled solutions for overall data/identity market challenges of unauthorized access.
+
+SCHEDULE 5.1
+
+Data Rights Owner System Resource Responsibility
+
+[To come]
+
+[List of elements that Data Rights Owner will be responsible to supply in order to use the services]
+
+SCHEDULE 6.0
+
+Data Store Security Obligations
+
+[To come]
+
+SCHEDULE 8.2
+
+Calculation of “Cloud-Based Storage Index”
+
+[To come]
+
+Schedule 8.3(b)
+
+Calculation of Data Store Shared Vault Data Commissions
+
+[To come]
+
+SCHEDULE 8.4(b)
+
+Calculation of Circulating Data Origination Fee
+
+[To come]
+
+SCHEDULE 8.9(a)
+
+Requirements for Data Store Accounting
+
+[To come]
+
+SCHEDULE 8.12
+
+Fee Reductions for ESL Performance Issues
+
+[To come]
+
+[As noted below, this structure of fee reductions is intended to provide an expedited dispute resolution process where known system harms with consistent cost profiles can be “automated” in the structure to limit the administrative effort associated with resolution. The ESL elements of the services are intended to be the most predictable. As statistical experience accumulates with the operation of the system, a greater portion of the services will be eligible for inclusion in the ESL structure (as knowledge of the system accumulates), enabling streamlining of the online automated “complaint department” that is the ESL structure.]
+
+SCHEDULE 8.15
+
+Form of Data Store Invoice
+
+[To come]
+
+SCHEDULE 9.2
+
+Data Store Personnel Standards
+
+SCHEDULE 9.5
+
+Data Store Employee Confidentiality Acknowledgement
+
+SCHEDULE 14
+
+Data Store Insurance Requirements
+
+SCHEDULE 15
+
+Data Store Reports
+
+The form of Data Store’s Reports shall [NOTE: Insert description (and links to examples) of the reports to be furnished here].
+
+The content of Data Store’s reports shall [NOTE: Insert description of the content of the reports to be furnished here] cover such information as
+
+1. Data relating to Data Stores performance of the Services measured against parameters established in the Agreement
+2. Data Stores compliance with ESL requirements of the Agreement
+3. Data Store’s transfer of Vault Data and Vault Meta Data to third parties on behalf of Data Rights Owner
+4. Data Store’s transfer of Circulating Data to third parties, and an accounting of the revenue generated with respect to such transfers
+5. Patterns of Vault Data and Circulating Data usage by Data Store, Data Rights Holder and authorized third parties
+6. Information relating to Data Store’s calculation of payments generated by third party transfers of data, Data Rights Owner’s payments for Services, and the netting of such various costs and charges that offset Data Rights Owner’s payment obligation arising with respect to such Services.
+7. Data Store’s third party relationships, including subcontractors that provide or assist in the provision of Services (such as “cloud service” providers)
+8. Any events of actual or suspected unauthorized access to Vault Data, Vault Meta Data or Circulating Data.
+9. Any events that constitute a default under the Agreement.
+10. Pre-notification of any planned reduction or diminution in the service that might, if enacted, negatively affect Data Rights Owner’s rights under this Agreement.
+
+SCHEDULE 16.3
+
+Data Store Accounting as Vault Data Agent
+
+[To Come]
+
+SCHEDULE 21
+
+Dispute Resolution
+
+[To Come]
+
+[Note that Dispute resolution is intended to be automated in order to enable scaled solutions for large volumes of small transactions and interactions that will take place with respect to both Vault Data and Circulating Data.
+
+Mechanism for creating a “reserve” to fund “liquidated damages” for violations of objectively testable ESLs (expected service levels) is one approach to automation. It is likely that system disputes will cluster around certain themes that will occur repeatedly. That repetition will generate history of the cost of response and compensation that will enable the accurate prediction of an amount that would constitute a fair settlement for such a common system problem. As that claims experience accumulates, and minor system problems become automatically compensated through a sort of “no fault” system covering minor and common problems, those aspects of dispute resolution start to become “product features” since they are easier to use than services where minor problems must be handled piecemeal.
+
+For those disputes that are outside of the ESL/liquidated damages structure, a modified form of “escalation” procedure should be considered that can accommodate various forms of mediation, arbitration and, in extreme cases, litigation in an integrated fashion, while still accommodating local jurisdictional (i.e., legal) or sectorial (i.e., industry practice) processes at each stage.
