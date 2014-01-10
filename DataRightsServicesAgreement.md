@@ -1,4 +1,4 @@
-**Note:** The following draft agreement represents a vision of the author describing how roles and relationships could be structured for provision and use of personal data services.  For more context on this draft and how it relates to the [MIT Personal Data System Rules](https://github.com/HumanDynamics/SystemRules/blob/master/Model_Personal_Data_System_Rules.md) refer to the MIT Human Dynamics Lab Personal Data and Identity Systems [Legal Agreements Wiki](https://github.com/HumanDynamics/SystemRules/blob/master/Model_Personal_Data_System_Rules.md).
+**Note:** The following draft agreement represents a vision of the author describing how roles and relationships could be structured for provision and use of personal data services.  For more context on this draft and how it relates to the [MIT Personal Data System Rules](https://github.com/HumanDynamics/SystemRules/blob/master/Model_Personal_Data_System_Rules.md) refer to the MIT Human Dynamics Lab Personal Data and Identity Systems [Legal Agreements Wiki](https://github.com/HumanDynamics/LegalAgreements/wiki/Data-Rights-Management-Agreement).
 
 
 --------------
