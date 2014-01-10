@@ -1,4 +1,7 @@
-//Note: The following agreement represents a vision of the author describing how roles and relationships could be structured for provision and use of personal data stores. In collaboration with the MIT Human Dynamics Lab, this draft agreement is being refactored and reframed as a data-driven legal instrument using the business, legal and technical method and GitHub as a mechanism.  A version of this draft agreement compatible with the System Rules is being explored as a possible basis for further collaboration.  
+**Note:** The following draft agreement represents a vision of the author describing how roles and relationships could be structured for provision and use of personal data stores.  Iteration of a version of this draft agreement compatible with the [MIT Personal Data System Rules](https://github.com/HumanDynamics) is being explored as a possible basis for further collaboration.  
+
+As a first step toward harmonization with the System Rules approach, this file has been extracted from MS Word, transformed to pure text and loaded into this GitHub repository for display using Markdown and in preparation for markup, tagging and formatting with XML, JSON and other methods necessary for the content to be expressed as machine processable rules and parameters capable of driving or triggering data-driven business and legal work flows or other procedures.  
+
 --------------
 
 
