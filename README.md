@@ -4,7 +4,44 @@ Repository for Computable Contracts Research and Development
 
 # Extracting Contracts from Edgar Filings 
 
-A hacky way to download the documents:  
+Couple searches that reveal most  recent filings with contracts: 
+https://searchwww.sec.gov/EDGARFSClient/jsp/EDGAR_MainAccess.jsp?search_text=%22ex-10%22&sort=Date&formType=Form8K&isAdv=true&stemming=true&numResults=100&numResults=100
+
+https://searchwww.sec.gov/EDGARFSClient/jsp/EDGAR_MainAccess.jsp?search_text=EX-10&sort=Date&formType=Form8K&isAdv=true&stemming=true&numResults=100&numResults=100
+
+Open Knowledge Foundation:
+https://github.com/datasets/edgar
+
+https://discuss.okfn.org/t/getting-structured-sec-edgar-data/71 
+
+
+Good Links to Gather Context:
+
+http://www.sec.gov/spotlight/xbrl/viewers.shtml 
+
+https://datapreview.sec.gov/previewer/ 
+
+http://www.slideshare.net/afalk42/xbrl-us-altova-webinar
+
+
+
+
+## To download all XBRL documents:
+
+Go to ftp://ftp.sec.gov/edgar/full-index/     
+Crawl ftp://ftp.sec.gov/edgar/full-index/20XX/QTRX/xbrl.idx ( for example,     ftp://ftp.sec.gov/edgar/full-index/2015/QTR1/xbrl.idx )      
+Filter lines in each xbrl.idx by the form type you are interested in. For example:    
+1000180|SANDISK CORP|10-K|2015-02-10|edgar/data/1000180/0001000180-15-000013.txt    
+Download ftp://ftp.sec.gov/<url> -- for example, ftp://ftp.sec.gov/edgar/data/1000180/0001000180-15-000013.txt    
+Extract XBRL document beginning with <?xml>   
+
+To Scrape Edgar Contracts into Hadoop     
+SEC EDGAR Oil Contracts Finder    
+https://github.com/pudo/edgar-oil-contracts (can widen this scope to all contracts, not limit to oil related contracts)    
+
+
+
+# A hacky way to download the documents:  
 
 1. go to ftp://ftp.sec.gov/edgar/daily-index/
 2. then find a file with the following company.XXXXXXXX.idx (where XXXXXXXX is the full date)
