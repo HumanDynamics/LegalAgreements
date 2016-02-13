@@ -8,7 +8,7 @@ A hacky way to download the documents:
 
 1. go to ftp://ftp.sec.gov/edgar/daily-index/
 2. then find a file with the following company.XXXXXXXX.idx (where XXXXXXXX is the full date)
-3. download the file by using wget ftp://ftp.sec.gov/edgar/daily-index/<PATH_to_file>/company.XXXXXXXX.idx
+3. download the file by using `wget ftp://ftp.sec.gov/edgar/daily-index/<PATH_to_file>/company.XXXXXXXX.idx`
 4. To process it you need to convert it to csv by running the following command       
   a. On your computer(using Terminal) navigate to the folder that has company.XXXXXXXX.idx    
   b. cat company.XXXXXXXX.idx | sed 's/  \+/;/g' > company.csv    
