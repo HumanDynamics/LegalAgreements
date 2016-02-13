@@ -29,7 +29,7 @@ Good Links to Gather Context:
 element id="us-gaap_BankruptcyClaimsDescriptionOfMaterialContractsAssumedOrAssigned
 
 * Line 1149:
-'<xs:element id='us-gaap_BankruptcyClaimsDescriptionOfMaterialContractsAssumedOrAssigned' name='BankruptcyClaimsDescriptionOfMaterialContractsAssumedOrAssigned' nillable='true' substitutionGroup='xbrli:item' type='xbrli:stringItemType' xbrli:periodType='duration' />'
+<xs:element id='us-gaap_BankruptcyClaimsDescriptionOfMaterialContractsAssumedOrAssigned' name='BankruptcyClaimsDescriptionOfMaterialContractsAssumedOrAssigned' nillable='true' substitutionGroup='xbrli:item' type='xbrli:stringItemType' xbrli:periodType='duration' />
 
 
 * Line 1151
