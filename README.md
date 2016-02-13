@@ -5,23 +5,43 @@ Repository for Computable Contracts Research and Development
 # Extracting Contracts from Edgar Filings 
 
 Couple searches that reveal most  recent filings with contracts: 
-https://searchwww.sec.gov/EDGARFSClient/jsp/EDGAR_MainAccess.jsp?search_text=%22ex-10%22&sort=Date&formType=Form8K&isAdv=true&stemming=true&numResults=100&numResults=100
+* https://searchwww.sec.gov/EDGARFSClient/jsp/EDGAR_MainAccess.jsp?search_text=%22ex-10%22&sort=Date&formType=Form8K&isAdv=true&stemming=true&numResults=100&numResults=100
 
-https://searchwww.sec.gov/EDGARFSClient/jsp/EDGAR_MainAccess.jsp?search_text=EX-10&sort=Date&formType=Form8K&isAdv=true&stemming=true&numResults=100&numResults=100
+* https://searchwww.sec.gov/EDGARFSClient/jsp/EDGAR_MainAccess.jsp?search_text=EX-10&sort=Date&formType=Form8K&isAdv=true&stemming=true&numResults=100&numResults=100
 
 Open Knowledge Foundation:
-https://github.com/datasets/edgar
+* https://github.com/datasets/edgar
 
-https://discuss.okfn.org/t/getting-structured-sec-edgar-data/71 
+* https://discuss.okfn.org/t/getting-structured-sec-edgar-data/71 
 
 
 Good Links to Gather Context:
 
-http://www.sec.gov/spotlight/xbrl/viewers.shtml 
+* http://www.sec.gov/spotlight/xbrl/viewers.shtml 
 
-https://datapreview.sec.gov/previewer/ 
+* https://datapreview.sec.gov/previewer/ 
 
-http://www.slideshare.net/afalk42/xbrl-us-altova-webinar
+* http://www.slideshare.net/afalk42/xbrl-us-altova-webinar
+
+
+## GAAP Material Contracts tags:
+
+element id="us-gaap_BankruptcyClaimsDescriptionOfMaterialContractsAssumedOrAssigned
+
+* Line 1149:
+'<xs:element id='us-gaap_BankruptcyClaimsDescriptionOfMaterialContractsAssumedOrAssigned' name='BankruptcyClaimsDescriptionOfMaterialContractsAssumedOrAssigned' nillable='true' substitutionGroup='xbrli:item' type='xbrli:stringItemType' xbrli:periodType='duration' />'
+
+
+* Line 1151
+'<xs:element id='us-gaap_BankruptcyClaimsAmountOfClaimsOnMaterialContractsRejected' name='BankruptcyClaimsAmountOfClaimsOnMaterialContractsRejected' nillable='true' substitutionGroup='xbrli:item' type='xbrli:monetaryItemType' xbrli:balance='credit' xbrli:periodType='instant' />'
+
+* Line 1157
+'<xs:element id='us-gaap_BankruptcyClaimsDescriptionOfMaterialContractsRejected' name='BankruptcyClaimsDescriptionOfMaterialContractsRejected' nillable='true' substitutionGroup='xbrli:item' type='xbrli:stringItemType' xbrli:periodType='duration' />'
+
+
+## Also See Property Type Tags: 
+
+* xs:element name="property" type="PROPERTY_TYPE" 
 
 
 
